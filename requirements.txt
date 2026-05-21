@@ -1,6 +1,10 @@
-streamlit==1.35.0
-pdfplumber==0.11.0
-pandas==2.2.2
-spacy==3.7.4
-scikit-learn==1.4.2
-matplotlib==3.8.4
+streamlit
+pdfplumber
+pandas
+spacy
+scikit-learn
+matplotlib
+numpy
+plotly
+PyPDF2
+nltk
